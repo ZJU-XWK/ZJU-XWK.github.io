@@ -30,5 +30,35 @@ An Liu, Yufan Zhou, **Wenkang Xu**<br>
 - [**Bilinear Subspace Variational Bayesian Inference for Joint Scattering Environment Sensing and Data Recovery in ISAC Systems**](https://arxiv.org/abs/2502.00811) (Submitted)<br>
 An Liu, **Wenkang Xu**, Wei Xu, Giuseppe Caire<br>
 
-
 Full list in [Google Scholar](https://scholar.google.com/citations?user=eUBbjbsAAAAJ)
+
+Education
+------
+-**Zhejiang University**<br>
+ **Ph.D. in Information and Communication Engineering**<br>
+ September 2021 to present
+
+ -**Zhejiang University**<br>
+ **B.Eng. in Information Engineering**<br>
+ September 2017 to June 2021
+
+Intern & Work Experience
+------
+-**The University of Hong Kong**<br>
+March 2025 to present<br>
+Position: visiting research assistant<br>
+Project:<br>
+  ○ Sparse Bayesian inference algorithm design<br>
+  ○ Tensor decomposion<br>
+
+-**Technical University of Berlin**<br>
+March 2024 to February 2025<br>
+Position: visiting student (online)<br>
+Project:<br>
+  ○ Near-field spatial non-stationary channel estimation/tracking<br>
+  ○ Bilinear subspace variational Bayesian inference algorithm<br>
+
+
+  
+ 
+
