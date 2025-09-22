@@ -18,7 +18,7 @@ Selected Works
 **Wenkang Xu**, Yongbo Xiao, An Liu, Ming Lei, Min-Jian Zhao<br>
 - [**Joint Visibility Region Detection and Channel Estimation for XL-MIMO Systems via Alternating MAP**](https://ieeexplore.ieee.org/abstract/document/10715712) (IEEE TSP)<br>
 **Wenkang Xu**, An Liu, Min-jian Zhao, Giuseppe Caire<br>
-- [**Successive linear approximation VBI for joint sparse signal recovery and dynamic grid parameters estimation**](https://ieeexplore.ieee.org/document/10715712) (IEEE TWC)<br>
+- [**Successive linear approximation VBI for joint sparse signal recovery and dynamic grid parameters estimation**](https://ieeexplore.ieee.org/abstract/document/11024132) (IEEE TWC)<br>
 **Wenkang Xu**, An Liu, Bingpeng Zhou, Minjian Zhao<br>
 - [**Exploiting Dynamic Sparsity for Near-Field Spatial Non-Stationary XL-MIMO Channel Tracking**](https://arxiv.org/abs/2412.19475) (Submitted)<br>
 **Wenkang Xu**, An Liu, Min-jian Zhao, Giuseppe Caire, Yik-Chung Wu<br>
